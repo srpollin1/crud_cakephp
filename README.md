@@ -1,4 +1,6 @@
-# CakePHP Application Skeleton
+# CRUD CakePHP 
+
+![Imagen de muestra del proyecto 2](https://github.com/srpollin1/crud_cakephp/blob/main/crud_cakephp.png)
 
 ![Build Status](https://github.com/cakephp/app/actions/workflows/ci.yml/badge.svg?branch=master)
 [![Total Downloads](https://img.shields.io/packagist/dt/cakephp/app.svg?style=flat-square)](https://packagist.org/packages/cakephp/app)
